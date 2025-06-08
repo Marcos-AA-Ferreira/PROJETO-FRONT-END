@@ -4,7 +4,7 @@ export const Context = createContext();
 
 export const AuthProvider = ({context, children}) => {
     
-    const [logado, setLogado] = useState(true);
+    const [logado, setLogado] = useState(false);
 
     return (
         <>

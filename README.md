@@ -10,7 +10,7 @@
   <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=YELLOW&style=for-the-badge"/>
 </p>
 
-📌 Descrição
+## 📌 Descrição
 Digital Store é um projeto de e-commerce com foco em moda digital, desenvolvido como parte da formação Front-End com React. Ele permite a navegação de usuários, criação de contas, login com autenticação local, e uma interface responsiva inspirada em lojas reais.
 
 ## 🚀 Tecnologias Utilizadas
